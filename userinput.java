@@ -53,7 +53,7 @@ public class userinput extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 //		doGet(request, response);
-		
+		-- 
 		response.setContentType("text/html");
 		PrintWriter write = response.getWriter();
 		String FirstName = request.getParameter("FirstName");
