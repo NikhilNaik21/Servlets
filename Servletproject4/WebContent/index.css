@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+.row
+{
+	display: flex;
+	
+}
+#x1{
+	border: solid 1px ;
+	text-align: center ;
+	margin-left :20%;
+	padding-top :2%;
+	width: 50%;
+}
